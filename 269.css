@@ -1022,6 +1022,14 @@ data-styled.g81[id="TopBar__ProfilePictureContainer-sc-1u0ccma-2"] {
   width: 100%;
   height: 100vh;
 }
+
+@media screen and (max-device-width: 767px) and (orientation: landscape) {
+  #vanta {
+    width: 200%;
+    height: 100vh;
+  }
+}
+
 @-webkit-keyframes jbEzjw {
   0% {
     -webkit-transform: translateX(3px) rotate(1deg);
