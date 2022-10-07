@@ -75,7 +75,7 @@
             "url": "https://www.tiktok.com/@staedtler.mars",
             "shouldRouteToProfile": false,
             "modifiers": {
-              "animation": "BUZZ",
+              "animation": "buzz",
               "isForwarding": false,
               "isForwardingActive": false,
               "thumbnailUrl": "https://d1fdloi71mui9q.cloudfront.net/RLxmPbDGRNWWJWTGYTbu_TikTok_STAEDTLER_quadr.jpg",
